@@ -5,7 +5,6 @@ __module_version__ = '1.0'
 __module_description__ = 'shitposting'
 
 import hexchat
-from itertools import combinations_with_replacement
 import random
 
 spiga_ogui = "juro que quando a ouvi a voz do {}pela primeira vez pensava que ele era atrasado mental. passado uns dias cheguei que há conclusão que ele é mesmo isso. deve ter alguma doença mental e não estou a brincar"
